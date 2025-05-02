@@ -1,4 +1,4 @@
-# SMS Backend Application
+# Student Internship Management System
 
 This is the backend for the SMS (Student Management System) application. It is built using Node.js and Express.
 
@@ -12,7 +12,7 @@ This is the backend for the SMS (Student Management System) application. It is b
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mutijima-bertin/student-managment-system.git
    ```
 
 2. Navigate to the project directory:
